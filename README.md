@@ -12,3 +12,6 @@ Do you want to write this?
 ```<html>Hello World!</html>```
 
 No problem, it's so easy. You just have to put '```' (without quotes) at the beginning and end.
+
+```<p>and you will be able to write something like this</p>
+<p>so other people can copy and paste coden at readme files</p>
