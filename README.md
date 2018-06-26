@@ -7,7 +7,8 @@ Hello repository is a place where you can write everything you want.
 
 # Important items
 ### How can I insert code on a readme file?
-Do you want to do this?
+Do you want to write this?
+
 ```<html>Hello World!</html>```
 
 No problem, it's so easy. You just have to put '```' (without quotes) at the beginning and end.
