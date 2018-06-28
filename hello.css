@@ -1,3 +1,7 @@
+* {
+  font-family: sans-serif;
+}
+
 h1 {
   color: #000
 }
@@ -7,5 +11,5 @@ h2 {
 }
 
 p {
-  font-family: sans-serif;
+  
 }
