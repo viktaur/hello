@@ -21,4 +21,4 @@ No problem, it's so easy. You just have to put '```' (without quotes) at the beg
 # About branches and compatibility with other programming apps
 For the moment we know very little about branches. We are also working with other programs like Atom that have GitHub complete integration. It's not easy to do that, but we are learning a lot, don't you?
 
-Now I've learned a lot about GitHub. Thank you.
+Now I've learned a lot about GitHub. Thank you. New changes from Visual Studio.
